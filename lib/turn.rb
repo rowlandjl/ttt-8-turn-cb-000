@@ -1,5 +1,5 @@
 def display_board(board)
-end 
+end
 
 def valid_move?
 end 
