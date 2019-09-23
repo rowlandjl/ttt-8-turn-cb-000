@@ -25,3 +25,6 @@ end
 def move(board, index, char)
   board[index] = char
 end
+
+def turn
+end 
